@@ -2,7 +2,11 @@
 layout: post
 title: BlocJams
 thumbnail-path: "img/blocjams.png"
+<<<<<<< HEAD
 short-description: BlocJams is an awesome music player that can be used to organize and listen to all your favorite music.
+=======
+short-description: BlocJams is an awesome music player that can be used to organize and listen to all your music.
+>>>>>>> c3c5cf2fed12b50dc3826f0820256246488a45a9
 
 ---
 
@@ -38,7 +42,11 @@ This project tested my abilities and a little of my sanity.  It was demanding, f
  - Version control was extremely useful, especially after mistakes
  - Suggested solutions at the end of every checkpoint
 
+<<<<<<< HEAD
 #### What did not worked
+=======
+ #### What did not worked
+>>>>>>> c3c5cf2fed12b50dc3826f0820256246488a45a9
  - Providing the roadmap, with tutorial, without full explanations of procedures. A lot was taken on faith
  - I'm still not completely confident with my coding skills
  - There could have been more music choices
