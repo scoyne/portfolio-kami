@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
-url: "http://www.your-domain.com" # the base hostname & protocol for your site
+url: "http://stephencoyne.me" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -10,8 +10,8 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Troubleshooter and web developer</h1>
-     <p>Enjoying what life has to offer and showcasing it by developing websites.</p>
+     <h1>Troubleshooter & web developer</h1>
+     <p>Enjoying what life has to offer and showcasing it through developing websites.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
@@ -39,7 +39,7 @@ theme_settings:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-110195113-1"
   disqus_shortname:
   katex: true # Enable if using math markup
 
